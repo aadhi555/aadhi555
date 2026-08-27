@@ -17,5 +17,5 @@ I'm a 2nd-year B.Tech student at **NIT Tiruchirappalli** and a **System Administ
 </p>
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aadhithya-g-47b479361/))
+- **LinkedIn:** [linkedin.com/in/your-profile] (https://www.linkedin.com/in/aadhithya-g-47b479361/)
 - **Portfolio/Projects:** [github.com/aadhi555](https://github.com/aadhi555)
