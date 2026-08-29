@@ -3,9 +3,9 @@
 I'm a 2nd-year B.Tech student at **NIT Tiruchirappalli** and a **System Administration Member** at [Delta Force](https://delta.nitt.edu/), the official programming club of NIT Trichy. I specialize in managing digital infrastructure, server optimization, and network security.
 
 ### 👨‍💻 About Me
-- 🔭 Currently optimizing servers and automating deployments for large-scale campus applications.
-- 🌱 Deepening my knowledge in **Linux architecture, Bash scripting, and Containerization (Docker)**.
-- 👯 Eager to collaborate on open-source infrastructure and system architecture projects.
+- Currently optimizing servers and automating deployments for large-scale campus applications.
+- Deepening my knowledge in **Linux architecture, Bash scripting, and Containerization (Docker)**.
+- Eager to collaborate on open-source infrastructure and system architecture projects.
 
 ### 🛠️ Tech Stack
 <p>
