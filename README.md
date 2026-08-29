@@ -13,9 +13,10 @@ I'm a 2nd-year B.Tech student at **NIT Tiruchirappalli** and a **System Administ
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/your-profile] (https://www.linkedin.com/in/aadhithya-g-47b479361/)
+- **LinkedIn:** [linkedin.com/in/aadhithya-g-47b479361/](https://www.linkedin.com/in/aadhithya-g-47b479361/)
 - **Portfolio/Projects:** [github.com/aadhi555](https://github.com/aadhi555)
